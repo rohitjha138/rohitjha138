@@ -1,4 +1,4 @@
-### Hi, I'm Rohit Kumar Jha
+### Hi, I'm Rohit 
 
 Final-year BEng (Hons) Biomedical Engineering student at the University of Bradford (IMechE-accredited), researching micro-injection moulding of biodegradable PHA microneedle devices.
 
